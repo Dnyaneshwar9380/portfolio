@@ -1,0 +1,1 @@
+Replace profile.jpg with your own photo and keep the same filename.
