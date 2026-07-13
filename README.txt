@@ -1,126 +1,166 @@
-=========================================================
-            DEVOPS PORTFOLIO WEBSITE
-=========================================================
+<div align="center">
 
-Author : Dnyaneshwar Mirgude
-Role   : Cloud & DevOps Engineer
+# 🚀 DevOps Portfolio
 
----------------------------------------------------------
-ABOUT
----------------------------------------------------------
+### 🌐 Personal Portfolio Website
 
-This portfolio website showcases my skills, certifications,
-projects, and experience in Cloud Computing and DevOps.
+<img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws" />
+<img src="https://img.shields.io/badge/Container-Docker-blue?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes" />
+<img src="https://img.shields.io/badge/IaC-Terraform-7B42BC?style=for-the-badge&logo=terraform" />
+<img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu" />
+<img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions" />
 
-The website is fully responsive and designed to provide a
-clean, modern, and user-friendly experience.
+---
 
----------------------------------------------------------
-FEATURES
----------------------------------------------------------
+### 👨‍💻 Designed & Developed by
 
-• Responsive Design
-• Modern User Interface
-• Animated Sections
-• Technical Skills Showcase
-• Certifications Section
-• Project Showcase
-• Downloadable Resume
-• Contact Information
-• Smooth Scrolling Navigation
+## **Dnyaneshwar Mirgude**
 
----------------------------------------------------------
-TECHNOLOGIES USED
----------------------------------------------------------
+### Cloud & DevOps Engineer
 
-• HTML5
-• CSS3
-• JavaScript (ES6)
-• Font Awesome
-• Google Fonts
-• AOS (Animate On Scroll)
+🌐 **Live Portfolio**
 
----------------------------------------------------------
-PROJECT STRUCTURE
----------------------------------------------------------
+**https://dnyaneshwar9380.github.io/portfolio**
 
-My_devops_portfolio/
+</div>
 
-│── index.html
-│── style.css
-│── script.js
-│── profile.jpg
-│── resume.pdf
-│── README.txt
+---
+
+# ✨ About the Portfolio
+
+This portfolio showcases my journey as a **Cloud & DevOps Engineer**.
+
+It highlights my technical skills, certifications, hands-on projects, resume, and contact information in a modern and responsive website.
+
+The portfolio is designed with smooth animations, clean UI, and fast performance to provide an engaging user experience.
+
+---
+
+# 🚀 Features
+
+✅ Fully Responsive Design
+
+✅ Modern User Interface
+
+✅ Smooth Scroll Navigation
+
+✅ Animated Sections
+
+✅ Interactive Skills Section
+
+✅ Project Showcase
+
+✅ Certifications
+
+✅ Download Resume
+
+✅ Contact Information
+
+✅ Mobile Friendly
+
+---
+
+# 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| HTML5 | Website Structure |
+| CSS3 | Styling |
+| JavaScript | Functionality |
+| Font Awesome | Icons |
+| Google Fonts | Typography |
+| AOS Library | Scroll Animations |
+
+---
+
+# 📂 Project Structure
+
+```text
+DevOps-Portfolio
 │
-└── certificates/
-      ├── certificate1.pdf
-      ├── certificate2.pdf
-      └── ...
+├── index.html
+├── style.css
+├── script.js
+├── assets
+│   ├── images
+│   ├── certificates
+│   └── resume.pdf
+│
+└── README.md
+```
 
----------------------------------------------------------
-SECTIONS INCLUDED
----------------------------------------------------------
+---
 
-1. Home
-2. About Me
-3. Skills
-4. Certifications
-5. Projects
-6. Contact
+# 📸 Website Sections
 
----------------------------------------------------------
-CUSTOMIZATION
----------------------------------------------------------
+🏠 Home
 
-You can customize the following:
+🙋 About Me
 
-• Profile Photo
-• Resume
-• Skills
-• Projects
-• Certificates
-• Contact Details
-• Colors and Fonts
-• Social Media Links
+💻 Skills
 
----------------------------------------------------------
-CONTACT
----------------------------------------------------------
+📜 Certifications
 
-Email
+🚀 Projects
+
+📄 Resume
+
+📬 Contact
+
+---
+
+# 🎯 Highlights
+
+✔ Clean UI
+
+✔ Easy Navigation
+
+✔ Professional Design
+
+✔ Optimized Performance
+
+✔ Recruiter Friendly
+
+✔ Mobile Responsive
+
+---
+
+# 📈 Future Improvements
+
+- 🌙 Dark Mode
+- 📊 Visitor Analytics
+- 💬 Contact Form
+- 🤖 GitHub API Integration
+- 📰 Blog Section
+- 🔍 Project Filters
+
+---
+
+# 📬 Connect With Me
+
+### 📧 Email
+
 dnyaneshwarmiragude31@gmail.com
 
-GitHub
-https://github.com/Dnyaneshwar9380
+### 💼 LinkedIn
 
-LinkedIn
 https://linkedin.com/in/dnyaneshwar-mirgude
 
-Portfolio
+### 💻 GitHub
+
+https://github.com/Dnyaneshwar9380
+
+### 🌐 Portfolio
+
 https://dnyaneshwar9380.github.io/portfolio
 
----------------------------------------------------------
-FUTURE IMPROVEMENTS
----------------------------------------------------------
+---
 
-• Dark Mode
-• Blog Section
-• GitHub API Integration
-• Visitor Counter
-• Contact Form using EmailJS
-• Additional Project Filtering
+# ⭐ If you like this project...
 
----------------------------------------------------------
-LICENSE
----------------------------------------------------------
+Please consider giving it a ⭐ on GitHub!
 
-This project is intended for educational and personal
-portfolio purposes.
+---
 
-You are free to modify and use the code for learning or
-creating your own portfolio.
-
-=========================================================
-          Thank you for visiting my portfolio!
-=========================================================
+</div>
