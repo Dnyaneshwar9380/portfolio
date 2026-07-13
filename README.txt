@@ -21,7 +21,7 @@
 
 🌐 **Live Portfolio**
 
-**https://dnyaneshwar9380.github.io/portfolio**
+https://dnyaneshwar9380.github.io/portfolio
 
 </div>
 
